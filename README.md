@@ -73,7 +73,16 @@ style A fill:#77b3d4, stroke:#333, stroke-width:2px;
 
 
 
-# POC 
+# POC :
+
+![WhatsApp Image 2024-03-26 at 21 46 30](https://github.com/Prureddy/Accident_Data_Analysis/assets/99805816/0e8cf835-fd0c-4ef6-92d2-7984f03f8d01)
+![WhatsApp Image 2024-03-26 at 21 46 29](https://github.com/Prureddy/Accident_Data_Analysis/assets/99805816/4a334f6e-719e-4a43-9e13-122610fa576a)
+![WhatsApp Image 2024-03-26 at 21 46 27](https://github.com/Prureddy/Accident_Data_Analysis/assets/99805816/de901804-8c1c-4d90-902c-8ab9cc51ac52)
+![WhatsApp Image 2024-03-26 at 21 46 26 (1)](https://github.com/Prureddy/Accident_Data_Analysis/assets/99805816/ded18b20-7bc1-4ce4-84de-7d66c0fb4e8f)
+![WhatsApp Image 2024-03-26 at 21 46 26](https://github.com/Prureddy/Accident_Data_Analysis/assets/99805816/fcac0bd2-f492-47c3-b3cb-169981e3cbf5)
+
+
+![WhatsApp Image 2024-03-26 at 21 46 27 (1)](https://github.com/Prureddy/Accident_Data_Analysis/assets/99805816/d3c18356-54cb-4a9a-b420-7091fea33f59)
 
 
 
