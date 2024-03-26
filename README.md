@@ -58,3 +58,22 @@ style A fill:#77b3d4, stroke:#333, stroke-width:2px;
     style R fill:#77b3d4, stroke:#333, stroke-width:2px;
     style S fill:#77b3d4, stroke:#333, stroke-width:2px;
     style T fill:#77b3d4, stroke:#333, stroke-width:2px;
+```
+
+
+
+# BMC Iteration 1 :
+![image](https://github.com/Prureddy/Accident_Data_Analysis/assets/99805816/50f67e2c-8e90-4659-adaa-306909c1c8b7)
+
+# BMC Iteration 2 :
+![image](https://github.com/Prureddy/Accident_Data_Analysis/assets/99805816/a44ef193-5e2b-450b-b4b1-59e02090b7d3)
+
+
+
+
+
+
+# POC 
+
+
+
