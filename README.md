@@ -100,6 +100,11 @@ style A fill:#77b3d4, stroke:#333, stroke-width:2px;
 ![WhatsApp Image 2024-03-26 at 21 46 27 (1)](https://github.com/Prureddy/Accident_Data_Analysis/assets/99805816/d3c18356-54cb-4a9a-b420-7091fea33f59)
 
 
+
+<iframe title="Road accident analysis" width="1300" height="690" src="https://app.powerbi.com/reportEmbed?reportId=43f2ead9-7854-4e76-9502-7cafff71a581&autoAuth=true&ctid=a3848dc7-6487-49c7-9ae0-a4324d34aefe" frameborder="0" allowFullScreen="true"></iframe>
+
+
+
 ## Conclusion :
 
 The journey from analyzing accident data to implementing data analysis visualization tools has been an enlightening and transformative experience. By addressing the longstanding issue of underutilized accident data, our innovative approach has paved the way for proactive accident prevention strategies and safer road environments.
