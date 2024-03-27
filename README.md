@@ -75,6 +75,7 @@ style A fill:#77b3d4, stroke:#333, stroke-width:2px;
 
 # POC :
 
+[Demolink](https://app.powerbi.com/reportEmbed?reportId=43f2ead9-7854-4e76-9502-7cafff71a581&autoAuth=true&ctid=a3848dc7-6487-49c7-9ae0-a4324d34aefe)
 ### Screenshot 1 :
 
 ![WhatsApp Image 2024-03-26 at 21 46 30](https://github.com/Prureddy/Accident_Data_Analysis/assets/99805816/0e8cf835-fd0c-4ef6-92d2-7984f03f8d01)
@@ -101,7 +102,8 @@ style A fill:#77b3d4, stroke:#333, stroke-width:2px;
 
 
 
-<iframe title="Road accident analysis" width="1300" height="690" src="https://app.powerbi.com/reportEmbed?reportId=43f2ead9-7854-4e76-9502-7cafff71a581&autoAuth=true&ctid=a3848dc7-6487-49c7-9ae0-a4324d34aefe" frameborder="0" allowFullScreen="true"></iframe>
+
+
 
 
 
