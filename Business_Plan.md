@@ -83,7 +83,7 @@ Here are some promising opportunities for new entrants:
 
 - **Thomson Reuters CLEAR:** Offers crime analysis software with potential accident data modules. [Thomson Reuters CLEAR](https://www.thomsonreuters.com/en/products-services/government/clear-investigation-software.html)
 
-- **Virtual Crash:** Specializes in 3D crash reconstruction software. [Virtual Crash](https://www.vcrashusa.com/)
+- **Virtual Crash:** Specializes in 3D crash reconstruction software.Estimated revenue $435kper year[Virtual Crash](https://www.vcrashusa.com/)
 
 **Insurance companies:**
 
